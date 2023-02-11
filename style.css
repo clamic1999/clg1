@@ -386,7 +386,7 @@ h4{
 }
 @media (max-width: 480px){
     .header-1{
-        width: 91%;
+        width: 100%;
     }
     .header-1 h1{
         position: absolute;
@@ -404,7 +404,7 @@ h4{
         left: 340px;
     }
     .header-2{
-        width: 91%;
+        width: 100%;
     }
     .header-2 .pic1{
         position: absolute;
@@ -439,7 +439,7 @@ h4{
         left: 75%;
     }
     .navbar{
-        width: 91%;
+        width: 100%;
     }
     .navbar a{
         font-size: 8px;
